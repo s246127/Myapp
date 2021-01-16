@@ -29,3 +29,5 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+.Ds_Store  
+# DS_Storeという隠しファイル（不要な変更履歴がGitで管理されないようにした）

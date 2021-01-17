@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+
+ /* 要素サイズの調整 */
+ * {
+  box-sizing: border-box;
+}
+ /* 要素サイズの調整 */
